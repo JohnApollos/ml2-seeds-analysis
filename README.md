@@ -85,11 +85,11 @@ scipy
 | Brenda Chepngeno | Group A — EDA |
 | Tracey Mugo | Group B — Unsupervised |
 | Linda Chepngeno | Group B — Unsupervised |
-| Chrispin Oigara | Group C — Supervised (KNN, Naive Bayes) |
 | Lewis Njue | Group C — Supervised (Decision Tree, Logistic Regression) |
-| Victor Kiptoo | Group C — Supervised (Random Forest, SVM) |
 | Doreen Okenye | Group C — Supervised (Gradient Boosting, MLP) |
-| Yobi | Group D — Evaluation & Documentation |
+| Chrispin Oigara | Group D — Evaluation & Documentation |
+| Victor Kiptoo | Group D — Evaluation & Documentation |
+| Brian | Group D — Evaluation & Documentation |
 
 ## Course
 
