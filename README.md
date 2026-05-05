@@ -87,9 +87,9 @@ scipy
 | Linda Chepngeno | Group B — Unsupervised |
 | Lewis Njue | Group C — Supervised (Decision Tree, Logistic Regression) |
 | Doreen Okenye | Group C — Supervised (Gradient Boosting, MLP) |
+| Brian | Group C — Supervised (KNN, Naive Bayes) |
 | Chrispin Oigara | Group D — Evaluation & Documentation |
 | Victor Kiptoo | Group D — Evaluation & Documentation |
-| Brian | Group D — Evaluation & Documentation |
 
 ## Course
 
