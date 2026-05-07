@@ -8,14 +8,14 @@ by seven geometric features extracted using soft X-ray imaging.
 ## Project Objectives
 
 - Perform exploratory data analysis to understand feature distributions
-  and class separability
+  and class separability.
 - Apply unsupervised learning (K-Means, Hierarchical Clustering) and 
-  compare recovered clusters against true labels using ARI and NMI
+  compare recovered clusters against true labels using ARI and NMI.
 - Train and evaluate multiple supervised classifiers (KNN, Naive Bayes,
   Decision Tree, Logistic Regression, Random Forest, SVM, Gradient 
-  Boosting, MLP)
-- Tune hyperparameters using GridSearchCV and RandomizedSearchCV
-- Compare top models using McNemar's statistical significance test
+  Boosting, MLP).
+- Tune hyperparameters using GridSearchCV and RandomizedSearchCV.
+- Compare top models using McNemar's statistical significance test.
 
 ## Dataset
 
@@ -84,7 +84,7 @@ scipy
 | Kojo Lucas | Group A — EDA |
 | Brenda Chepngeno | Group A — EDA |
 | Tracey Mugo | Group B — Unsupervised |
-| Linda Chepngeno | Group B — Unsupervised |
+| Linda Chepng'eno | Group B — Unsupervised |
 | Lewis Njue | Group C — Supervised (Decision Tree, Logistic Regression) |
 | Doreen Okenye | Group C — Supervised (Gradient Boosting, MLP) |
 | Brian | Group C — Supervised (KNN, Naive Bayes) |
